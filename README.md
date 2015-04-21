@@ -11,7 +11,7 @@ Check out the demo here: [https://cdn.rawgit.com/incraigulous/jquery-vimeo-cover
 ````
 
 ##How to use it
-###Add your placeholder element.
+**Add your placeholder element.**
 
 ````
     <div class="vimeo-cover" vimeo-id="77091919" vimeo-placeholder="http://placehold.it/920x517"></div>
@@ -22,7 +22,7 @@ Check out the demo here: [https://cdn.rawgit.com/incraigulous/jquery-vimeo-cover
 **vimeo-id:** The Vimeo ID. You can get this from the Vimeo video URL.
 **vimeo-placeholder:** The path to your placeholder image.
 
-###Instantiate a new VimeoCover object and pass in your element. You can also pass an options object as your second parameter but this is optional.
+**Instantiate a new VimeoCover object and pass in your element. You can also pass an options object as your second parameter but this is optional.**
 
 
 ````javascript
