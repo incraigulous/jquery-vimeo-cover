@@ -1,0 +1,22 @@
+{
+  "name": "jquery-vimeo-cover",
+  "main": "jquery-vimeo-cover.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/incraigulous/jquery-vimeo-cover",
+  "authors": [
+    "incraigulous"
+  ],
+  "description": "Use a placeholder element for Vimeo videos and inject the video embed when it's clicked.",
+  "keywords": [
+    "jquery",
+    "drawer",
+    "vimeo",
+    "vimeo cover",
+    "vimeo-cover"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "class.js": "~1.0.0"
+  }
+}

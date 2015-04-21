@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Vimeo Cover</title>
+    <style type="text/css">
+        .container {
+            width: 960px;
+            margin: 0 auto;
+            font-family: arial;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Click the placeholder image:</h1>
+    <div class="vimeo-cover" vimeo-id="77091919" vimeo-placeholder="http://placehold.it/920x517"></div>
+</div>
+
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="lib/class.min.js"></script>
+<script src="jquery-vimeo-cover.js"></script>
+<script>
+    new VimeoCover($('.vimeo-cover'));
+</script>
+</html>
