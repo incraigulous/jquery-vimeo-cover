@@ -3,6 +3,8 @@ jQuery Vimeo Cover
 
 Use a placeholder element for Vimeo videos and inject the video embed when it's clicked. This allows you to use a custom cover image until the video is played clicked instead of displaying the Vimeo embed.
 
+##Demo
+Check out the demo here: [https://cdn.rawgit.com/incraigulous/jquery-vimeo-cover/master/demo.html](https://cdn.rawgit.com/incraigulous/jquery-vimeo-cover/master/demo.html)
 ##Installation
 ````
     bower install jquery-vimeo-cover
